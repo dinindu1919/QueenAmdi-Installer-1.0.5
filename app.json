@@ -1,6 +1,6 @@
 {
     "name": "Queen Amdi 3.6.2v",
-    "description": "Queen Amdi is a chat bot for WhatsApp. 💃🏻❤️",
+    "description": "Togashi Yuuta deployed by #81131 and copied codes from Queen Amdi. Respect first owners",
     "keywords": [
         "Queen Amdi",
         "WhatsApp",
@@ -10,18 +10,19 @@
         "Black Amda"
     ],
     "website": "https://amdaniwasa.com",
-    "logo": "https://amdaniwasa.com/assets/QAAppjson.gif",
+    "logo": "https://i.pinimg.com/474x/8e/31/3d/8e313d003e77e24a361193515cbd35f3.jpg",
     "success_url": "https://dashboard.heroku.com/apps/",
     "stack": "container",
     "env":{
         "AMDI_SESSION": {
             "description": "Paste the session code you received after scanning the QR from https://replit.com/@BlackAmda/Queen-Amdi-QR-Code",
             "required": true
+            "value": "AMDI;;;eyJjbGllbnRJRCI6ImZWSFdPWVgvZ20zcUVVdVlNT1R2Y2c9PSIsInNlcnZlclRva2VuIjoiMUAxcUJCWEdGbm92aHJ6aUFWakVBdWlKSXRUWC8wUnVWNHhxMUJBVVJjNXlzN1JZYjg1TTR6Vm5zRkdKU3dST09JS1BndG1Ka3Y3SWZZekE9PSIsImNsaWVudFRva2VuIjoiNWNGRkpoVHJyT2FOYXhadytKaVZrNDAvRUpkdEJxbXRnZ1Q2RmZBMmxiUT0iLCJlbmNLZXkiOiJxTnB4ZnNCdkNTdE8yZ1YrQXM1blhxbmlEWFozeUFnUEFyTzVLNDF2eHk4PSIsIm1hY0tleSI6InQxNU1pZExOZXFZNmtISWNhQlV6KzFRWmlaSEMyTnBhaGdwUzB4cjduMXc9In0="
         },
         "ADD_MESSAGE": {
             "description": "Message that a member has been added to the group. If you do not want to change it, keep 'default'.",
             "required": true,
-            "value": "default"
+            "value": "Hello..... Welcome to Asgard"
         },
         "AFK_MESSAGE": {
             "description": "AFK message when you in AFK mode.",
@@ -31,17 +32,17 @@
         "ALIVE_LOGO": {
             "description": "Picture with alive message. Paste an image direct link or do '.setalive' command after deploying the bot.",
             "required": true,
-            "value": "https://i.ibb.co/cQrnsXq/Queen-Amdi-Alive.jpg"
+            "value": "https://cdn.wionews.com/sites/default/files/2021/01/22/179571-8.jpg"
         },
         "ALIVE_MESSAGE": {
             "description": "The message that appears when typing the '.alive' command. If you do not want to change it, keep 'default'.",
             "required": true,
-            "value": "default"
+            "value": "M alive. Bot deployed by #81131 (https://wa.me?+94705011967) send *.panel* to view command menu"
         },
         "AMDI_CHAT": {
             "description": "Full Artificial intelligence(AI) based chat bot feature. Type 'true' to enable and type 'false' to disable.",
             "required": true,
-            "value": "false"
+            "value": "true"
         },
         "ANTIBAD": {
             "description": "Bad word protection for groups. Type 'true' to enable and type 'false' to disable Anti-Bad.",
@@ -61,7 +62,7 @@
         "BAN_MESSAGE": {
             "description": "The remove message that appears when type the '.ban' command. If you do not want to change it, keep 'default'.",
             "required": true,
-            "value": "default"
+            "value": "Banned. DM https://wa.me/+94705011967 for details."
         },
         "BLOCK_CHAT": {
             "description": "Type the JID address of the chat to disable the bot that works in chat.",
@@ -70,7 +71,7 @@
         "BLOCK_MESSAGE": {
             "description": "The message that appears when typing the '.block' command. If you do not want to change it, keep 'default'.",
             "required": true,
-            "value": "default"
+            "value": "Blocked. DM https://wa.me/+94705011967 for details."
         },
         "BYE_LOGO": {
             "description": "Picture with good bye message. Paste an image direct link or do '.setbye' command after deploying the bot.",
@@ -80,12 +81,12 @@
         "CAP": {
             "description": "Caption of media files.",
             "required": true,
-            "value": "ᴳᵉⁿᵉʳᵃᵗᵉᵈ ᴮʸ Qᵘᵉᵉⁿ ᴬᵐᵈᶦ₂₀₂₂"
+            "value": "Genarated By Togashi Yuuta"
         },
         "DEMOTE_MESSAGE": {
             "description": "The message that appears when typing the '.demote' command. If you do not want to change it, keep 'default'.",
             "required": true,
-            "value": "default"
+            "value": "Demoted as An Admin. DM https://wa.me/+94705011967 for details."
         },
         "DM_BLOCK": {
             "description": "Block everyone when send a message to inbox. Type 'true' to enable and type 'false' to disable inbox blocker.",
@@ -94,21 +95,22 @@
         },
         "GAN_IMAGE": {
             "description": "No need to change.",
-            "value": "https://i.ibb.co/0h6pq4j/6fba2dec0129.jpg"
+            "value": "https://i.pinimg.com/736x/c1/34/1a/c1341a5f0060626bdf487b65708b3ec8.jpg"
         },
         "HANDLERS": {
             "description": "Enter bot prefix to use commands. (Don't delete ^[ ])",
             "required": true,
-            "value": "^[.!#]"
+            "value": "^[.!#?]"
         },
         "IMGBB": {
             "description": "Paste your imgbb API to change ALIVE,Welcome,Bye pictures by a command. (Visit https://imgbb.com/ and signup there. And get an API key from https://api.imgbb.com/)",
             "required": true
+            "value":"46f1c832bc456087ae7fb476cb49b97d"
         },
         "KICKME_MESSAGE": {
             "description": "The message that appears when typing the '.kickme' command. If you do not want to change it, keep 'default'.",
             "required": true,
-            "value": "default"
+            "value": "Kicked. DM https://wa.me/+94705011967 for details."
         },
         "LANGUAGE": {
             "description": "Bot language. Type EN for English and type SI for Sinhala.",
@@ -118,7 +120,7 @@
         "MAX_SIZE": {
             "description": "Set maximum media file sending size. Type size in MB. To best performance keep 90mb.",
             "required": true,
-            "value": "90"
+            "value": "9990"
         },
         "MENU": {
             "description": "Set your command to get full command list.",
@@ -128,11 +130,12 @@
         "MUTE_MESSAGE": {
             "description": "The message that appears when typing the '.mute' command. If you do not want to change it, keep 'default'.",
             "required": true,
-            "value": "default"
+            "value": "Group Muted. DM https://wa.me/+94705011967 for details."
         },
         "NAME": {
             "description": "Your name. This will appear in your menu and many commands.",
             "required": true
+            "value": "Togashi Yuuta"
         },
         "NO_ERROR_LOG": {
             "description": "Stop all error messages in Log number. Type 'true' to enable and type 'false' to disable Error Log Blocker.",
@@ -142,12 +145,12 @@
         "PANEL_EMOJI": {
             "description": "You can change panel emojis. (Make sure to split emojis with / )",
             "required": true,
-            "value": "📘/📖"
+            "value": "☢/🔰"
         },
         "PROMOTE_MESSAGE": {
             "description": "The message that appears when typing the '.promote' command. If you do not want to change it, keep 'default'.",
             "required": true,
-            "value": "default"
+            "value": "Promoted as An Admin. Congratz"
         },
         "SEND_READ": {
             "description": "Need to show user whether bot message seen or not?",
@@ -161,17 +164,17 @@
         "UNMUTE_MESSAGE": {
             "description": "The message that appears when typing the '.unmute' command. If you do not want to change it, keep 'default'.",
             "required": true,
-            "value": "default"
+            "value": "Group Unmuted. Keep it alive"
         },
         "WELCOME_LOGO": {
             "description": "Picture with welcome message. Paste an image direct link or do '.setwelcome' command after deploying the bot.",
             "required": true,
-            "value": "https://i.ibb.co/XCfhtfH/301820a4f3c0.jpg"
+            "value": "https://www.denofgeek.com/wp-content/uploads/2019/08/heimdall-thor-movie.jpg"
         },
         "WORK_TYPE": {
             "description": "The way the bot works. If you use public, everyone can use the bot. If you use private, only you can use your bot.",
             "required": true,
-            "value": "private"
+            "value": "public"
         },
         "HEROKU": {
             "description": "Heroku",
@@ -181,10 +184,12 @@
         "HEROKU_API_KEY": {
             "description": "https://dashboard.heroku.com/account Click this link. Scroll down for the API key. Then click the Reveal button. Copy the API key and paste the API Key empty box below.",
             "required": true
+            "value" : "8b791e8a-dc10-457b-bd6b-2705b7d46cdf"
         },
         "HEROKU_APP_NAME": {
             "description": "Use the same App name as first.",
             "required": true
+            "value":"togashi81131"
         },
         "DEBUG": {
             "description": "If you do not know this. Give it up.",
@@ -193,7 +198,8 @@
         },
         "REMOVE_BG_API_KEY": {
             "description": "Here you, go to the website remove.bg and sign up and get an API key. Leave the API key in this space.",
-            "required": false
+            "required": true
+            "value": "55dCf1YQpQ1Rme5mscBXmicX"
         },
         "NO_ONLINE": {
             "description": "This is not necessarily the case.",

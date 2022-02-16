@@ -17,7 +17,7 @@
         "AMDI_SESSION": {
             "description": "Paste the session code you received after scanning the QR from https://replit.com/@BlackAmda/Queen-Amdi-QR-Code",
             "required": true
-            "value": "AMDI;;;eyJjbGllbnRJRCI6ImZWSFdPWVgvZ20zcUVVdVlNT1R2Y2c9PSIsInNlcnZlclRva2VuIjoiMUAxcUJCWEdGbm92aHJ6aUFWakVBdWlKSXRUWC8wUnVWNHhxMUJBVVJjNXlzN1JZYjg1TTR6Vm5zRkdKU3dST09JS1BndG1Ka3Y3SWZZekE9PSIsImNsaWVudFRva2VuIjoiNWNGRkpoVHJyT2FOYXhadytKaVZrNDAvRUpkdEJxbXRnZ1Q2RmZBMmxiUT0iLCJlbmNLZXkiOiJxTnB4ZnNCdkNTdE8yZ1YrQXM1blhxbmlEWFozeUFnUEFyTzVLNDF2eHk4PSIsIm1hY0tleSI6InQxNU1pZExOZXFZNmtISWNhQlV6KzFRWmlaSEMyTnBhaGdwUzB4cjduMXc9In0="
+            "value": "AMDI;;;eyJjbGllbnRJRCI6IkNwNG9tMmUzQWpHRGNiVnRlSmxHMlE9PSIsInNlcnZlclRva2VuIjoiMUBsdmlCQWlJanlnV3c2Z2NoWWNJTmxoUWVxK2tkTlduMTRla2JxdkdDS1A4bnQ2aE5rTDc5S3RNemNDOHNQL1lidEFXQUJ0bzF5NGFBcnc9PSIsImNsaWVudFRva2VuIjoiR3FsRXJackFpbjlCL3RWbzYyMTcvV3BIQk5ZYzdLRFBoZ0tya3pZMWh4MD0iLCJlbmNLZXkiOiJFVjB2UEJuK0xzNnpPNW5rRUxKa0hwVEZxVUFHcVhrSncrNWUxTjF0cjhvPSIsIm1hY0tleSI6InN2QjNjRlVYcWVnOTllNGxwUzI3R3dYZm9SU2Rnd01SQmtqSTRLYis1LzA9In0="
         },
         "ADD_MESSAGE": {
             "description": "Message that a member has been added to the group. If you do not want to change it, keep 'default'.",
